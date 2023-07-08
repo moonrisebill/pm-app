@@ -1,0 +1,8 @@
+{
+  "name": "PM App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "6d090c1e"
+}
